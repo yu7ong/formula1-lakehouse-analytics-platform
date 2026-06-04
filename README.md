@@ -18,7 +18,7 @@ The project demonstrates **key concepts** including:
 - Power BI reporting
 
 ## Architecture
-![Architecture](Images/architecture_diagram.png)
+![Architecture](Images/architecture_diagram.jpg)
 
 ## Technology Stack
 | Component | Technology |
