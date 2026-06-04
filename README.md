@@ -22,13 +22,14 @@ The project demonstrates **key concepts** including:
 
 ## Technology Stack
 | Component | Technology |
-| Cloud Storage | Azure Data Lake Storage | 
+|-----------|------------|
+| Cloud Storage | Azure Data Lake Storage |
 | Processing Engine | Apache Spark on Azure Databricks |
-| Data Format | Delta Lake | 
-| Data Governance | Unity Catalog | 
-| Data Transformation | PySpark | 
-| Workflow Orchestration | Lakeflow Jobs | 
-| Analytics | Power BI | 
+| Data Format | Delta Lake |
+| Data Governance | Unity Catalog |
+| Data Transformation | PySpark |
+| Workflow Orchestration | Lakeflow Jobs |
+| Analytics | Power BI |
 
 ## Data Source
 The project uses publicly available [Formula 1 datasets](https://github.com/jolpica/jolpica-f1). 
